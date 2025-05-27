@@ -1,5 +1,33 @@
 # VideoGameSales-EDA
 
+Here's a quick overview of what I worked on:
+
+🔍 Exploratory Data Analysis (EDA)
+
+Cleaned the dataset by handling missing values — replaced nulls using mean (for numerical) and mode (for categorical).
+
+Visualized total global sales and number of games per genre using bar plots.
+
+Compared sales trends across North America, Europe, and Japan using line plots for deeper regional insights.
+
+Identified the Top 10 globally selling video games for a quick performance benchmark.
+
+Created a heatmap to analyze the relationship between top publishers and game genres.
+
+📊 Data Visualization Highlights
+
+Used pie charts to showcase the regional distribution of global sales — providing a clear view of market share.
+
+Emphasized actionable insights with clean, interactive visuals.
+
+🤖 Machine Learning & Prediction
+
+Trained a Random Forest Regressor and a Linear Regression model to predict global sales.
+
+Evaluated both models using Root Mean Squared Error (RMSE) and R² score to measure performance.
+
+Compared actual vs predicted sales to assess model accuracy.
+
 Key Insights:
 
 1. Platform: Some platforms (like PlayStation or Xbox) have significantly higher global sales compared to others.
